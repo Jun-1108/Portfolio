@@ -1,6 +1,7 @@
-# ECOLE Project-Portfolio
+<h1>ECOLE Project-Portfolio</h1>
+
 ![Site Title](https://github.com/Jun-1108/Portfolio/assets/48702150/218548bf-fc05-4400-81a6-7ee7ac64a352)<br><br>
-## 사이트 주소 
+## 포트폴리오 주소
 https://2019875030.ksecole.kr<br><br>
 ## 만들면서 느낀점 
 Front-End를 직접 배워보니 기존에 배웠던 Language와 달리 색다른 시간이었고,<br> 
