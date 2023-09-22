@@ -1,4 +1,14 @@
-# Portfolio
-## ECOLE Project 
-![Site Title](https://github.com/Jun-1108/Portfolio/assets/48702150/218548bf-fc05-4400-81a6-7ee7ac64a352)
+# ECOLE Project-Portfolio
+![Site Title](https://github.com/Jun-1108/Portfolio/assets/48702150/218548bf-fc05-4400-81a6-7ee7ac64a352)<br><br>
+## 사이트 주소 
+https://2019875030.ksecole.kr<br><br>
+## 만들면서 느낀점 
+Front-End를 직접 배워보니 기존에 배웠던 Language와 달리 색다른 시간이었고,<br> 
+포트폴리오를 직접 만들어보니 제가 아직 많이 부족하다는 것을 한번 더 깨닫는 시간이 되었던 것 같습니다.<br>
+아직 쓸 내용이 별로 없고, 그로인해 차근차근 더 채워 나아가고 싶다는 생각이 들게되었습니다. <br><br>
+## 개선 사항
+디자인이 많이 부족해 보인다. 디자인을 좀 학습하여 배워 남들이 보기에 좀 더 깔끔한 포트폴리오를 만들어 보고 싶습니다.<br>
+그리고 다음에 포트폴리오를 작성할때는 내용이 더 풍부 했으면 좋겠습니다 
+
+
 
